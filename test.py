@@ -1,2 +1,1 @@
-import sys
-print("hello")
+print("hello world hahaha")
